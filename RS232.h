@@ -13,7 +13,7 @@
   char read_UART(void);
   void read_text_UART(char *read_text, unsigned int text_size);
   char TX_UART_empty(void);
-  char UART_data_Ready(void);
+  char data_Ready_UART(void);
  */
 //******************************************************************************
 
